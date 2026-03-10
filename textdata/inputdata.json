@@ -1,0 +1,16 @@
+{
+    "loginpage": {
+        "username": {
+            "by": "id",
+            "value": "dog"
+        },
+        "password": {
+            "by": "id",
+            "value": "password"
+        },
+        "login_button": {
+            "by": "id",
+            "value": "login-button"
+        }
+    }
+}
