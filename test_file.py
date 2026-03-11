@@ -24,6 +24,7 @@ def test_login():
             document.getElementById('user-name').id = 'dog';
         """)
         print("DOM ID changed from 'password' to 'fail'")
+        print("hello")
 
         # Capture updated DOM
         with open("updated_dom.html", "w", encoding="utf-8") as f:
